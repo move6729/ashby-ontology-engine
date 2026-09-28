@@ -1,17 +1,11 @@
-# Sovereign Local Ontology Engine (ASHBY-v1.0)
+# Open Customer Relationship Management & Pipeline Graph Protocol Specification (OPEN-CRM-v1.0)
 
-**Classification:** Open Standard / Federated Object Graph Engine  
-**Canonical Reference ID:** `ASHBY-v1.0`  
-**Target Infrastructure:** Bare-Metal Local Nodes, Local Vector DBs (LanceDB), P2P Edge Networks  
-**License:** Unlicense (Public Domain — Zero-Rent Federation)  
+## 1. Institutional Economic Audit & Corporate Lock-in Analysis
+Traditional customer relationship management architectures, exemplified by Salesforce (Salesforce Sales Cloud & CRM), operate as high-margin rent-extraction tollbooths. By engineering artificial switching costs ($C_s \to \infty$) through closed proprietary data dialects, vendor-managed cloud database silos, and enforced per-seat SaaS subscription pricing models, Salesforce extracts 30%+ middleman rents from enterprise users for non-productive administrative overhead.
 
----
+OPEN-CRM-v1.0 dismantles this paradigm. By replacing proprietary software lock-in with a zero-rent, open protocol specification, pipeline state transitions and entity relationship graphs are restored to sovereign local execution with zero per-seat fees or tollbooth intermediaries.
 
-## 1. System Topology & Requisite Variety Matching
+## 2. Mechanical Inversion
+Whereas Salesforce relies on a closed, cloud-hosted relational database tollbooth requiring ongoing subscription rents, OPEN-CRM-v1.0 utilizes an open, model-agnostic JSON-LD graph executing locally on bare-metal hardware (`LMCI-v1.0`). Pipeline entities, state vectors, and communication interactions are stored locally in deterministic JSON formats, enabling zero-rent operation and complete local sovereignty over corporate intelligence graphs.
 
-`ASHBY-v1.0` is an open-source, model-agnostic, zero-rent alternative to proprietary, centralized surveillance ontologies (e.g., Palantir Gotham/Foundry). 
-
-Centralized ontologies suffer from an inherent Ashby's Law violation ($\mathcal{V}_{\text{Central}} \ll \mathcal{V}_{\text{Environment}}$), forcing complex real-world data into proprietary corporate databases and extracting high-margin software rents.
-
-`ASHBY-v1.0` satisfies Ashby's Law ($\mathcal{V}_{\text{Controller}} \ge \mathcal{V}_{\text{Environment}}$) by decentralizing the ontology layer down to local bare-metal edge nodes (`LMCI-v1.0`). Each node maintains its own local object state vector, interacting asynchronously via deterministic, cryptographically signed Directed Acyclic Graphs (DAGs).
-
+## 3. System Topology
